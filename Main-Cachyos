@@ -1,0 +1,11 @@
+swap file for hibernation & Zram for performance on 
+
+Laptop:			HP Pavilion Gaming ec2019ne
+OS:			cachyos
+bootloader:		systemd
+WM:			gnome
+Patition format:	xfs
+initramfs modular:	mkinitcpio
+RAM:			16GB
+
+look deep into issues cuz i been on for a long time and it doesn't work
